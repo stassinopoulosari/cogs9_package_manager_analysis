@@ -1,3 +1,16 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:c880bff7d74afce8d79ab2d89dbc32e958af99f2a513faf6ffe3ee5f69f41fa9
-size 347
+{
+  "name": "cogs9-packagemanagerdata",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "stassinopoulosari",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.21.0",
+    "package-info": "^3.0.2",
+    "package-stream": "^3.1.0"
+  }
+}
